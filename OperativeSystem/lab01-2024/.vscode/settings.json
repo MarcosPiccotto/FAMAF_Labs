@@ -1,9 +1,0 @@
-{
-    "files.associations": {
-        "unistd.h": "c",
-        "execute.h": "c",
-        "parser.h": "c",
-        "command.h": "c",
-        "signal.h": "c"
-    }
-}
